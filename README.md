@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/piyushdudhakawre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyushdudhakawre/" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/piyushdudhakawre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyushdudhakawre/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyushdudhakawre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyushdudhakawre/" height="30" width="40" /></a> <a href="https://piyush-dudhakawre-portfolio.netlify.app/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/91535278/154699445-e9573602-c00e-4717-8097-bbdf21ca04f3.png)" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
