@@ -13,6 +13,8 @@
 
 - ❤️ My hobbies are **Playing games, listening music, watching movies**
 
+- 👍 Challenges make me motivate
+
 - 📫 How to reach me **piyushdude25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
