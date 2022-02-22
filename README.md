@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushdude25" alt="piyushdude25" /></a> </p>
 
+- Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth.
+
+
 - 🔭 I’m currently working on **portfolio**
 
 - 🌱 I’m currently learning **learning React**
