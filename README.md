@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/piyushdudhakawre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyushdudhakawre/" height="30" width="40" /></a> <a href="https://piyush-dudhakawre-portfolio.netlify.app/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS9SP9_VWjxAYAnNR_T2aB6ugWfcwaDoa2A&usqp=CAU" alt="" height="30" width="40" /></a>
-  <a href="https://medium.com/@piyush25297" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShKYk2LEUKYVT6UtjG3hZwYyPD6SHVz918mg&usqp=CAU" alt="" height="30" width="40" /></a>
+  <a href="https://medium.com/@piyush25297" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
