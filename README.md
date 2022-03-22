@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A Full stack web developer</h3>
+Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushdude25&label=Profile%20views&color=0e75b6&style=flat" alt="piyushdude25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushdude25" alt="piyushdude25" /></a> </p>
 
-- Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth.
+- 
 
 
 - 🔭 I’m currently working on **portfolio**
