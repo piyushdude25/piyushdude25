@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **learning React**
 
-- 💬 Ask me about **HTML, CSS, JS,**
+- 💬 Ask me about **HTML, CSS, JS, react, mongoDB, nodeJS,  **
 
 - ❤️ My hobbies are **Playing games, listening music, watching movies**
 
