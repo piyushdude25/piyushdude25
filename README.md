@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on **Prodioslabs**
 
-- 🌱 I’m currently learning **learning React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JS, react, mongoDB, nodeJS,  **
 
