@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A Full stack web developer</h3>
-<h3 align="center">Full Stack web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushdude25&label=Profile%20views&color=0e75b6&style=flat" alt="piyushdude25" /> </p>
 
